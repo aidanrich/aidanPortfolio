@@ -27,31 +27,9 @@ export default function Projects() {
                     <li>
                     <a href="https://github.com/aidanrich/prequel" className="heading repo" target="_blank" rel="noreferrer noopener">Git Repo</a>
                     </li>
-                    <li>
-                    <a href="https://blooming-atoll-34852.herokuapp.com/" className="heading repo" target="_blank" rel="noreferrer noopener">Live Site</a>
-                    </li>
                 </ul>
                 </p>
       </div>
-    <div className="box-main">
-      <h1 className="heading">Fitness Tracker</h1>
-      <p className="content">
-        <img src={fitness} alt="fitness" />
-      </p>
-      <p className="content">
-        The fitness tracker is a fullstack app that helps a user track and aggregate their workout routines over time. For this piece I worked primarily on the backend database and routes linking to the front end JavaScript. Uses MongoDB.
-          </p>
-          <p className='above'>
-          <ul className="nav">
-                    <li>
-                    <a href="https://github.com/aidanrich/fitness-tracker" className="heading repo" target="_blank" rel="noreferrer noopener">Git Repo</a>
-                    </li>
-                    <li>
-                    <a href="https://vast-everglades-43611.herokuapp.com/" className="heading repo" target="_blank" rel="noreferrer noopener">Live Site</a>
-                    </li>
-                </ul>
-                </p>
-    </div>
     <div className="box-main">
         <h1 className="heading">New2Town</h1>
         <p className="content">
@@ -65,9 +43,6 @@ export default function Projects() {
         <ul className="nav">
                     <li>
                     <a href="https://github.com/aidanrich/new2town" className="heading repo" target="_blank" rel="noreferrer noopener">Git Repo</a>
-                    </li>
-                    <li>
-                    <a href="https://protected-anchorage-26140.herokuapp.com/" className="heading repo" target="_blank" rel="noreferrer noopener">Live Site</a>
                     </li>
                 </ul>
                 </p>
@@ -85,49 +60,6 @@ export default function Projects() {
         <ul className="nav">
                     <li>
                     <a href="https://github.com/aidanrich/Aidans-Art" className="heading repo" target="_blank" rel="noreferrer noopener">Git Repo</a>
-                    </li>
-                    <li>
-                    <a href="https://polar-sands-47307.herokuapp.com/" className="heading repo" target="_blank" rel="noreferrer noopener">Live Site</a>
-                    </li>
-                </ul>
-                </p>
-      </div>
-      <div className="box-main">
-        <h1 className="heading">Quiz Game</h1>
-        <p className="content">
-          <img src={quizGame} alt="quizgame" />
-
-        </p>
-        <p className="content">
-          This app is a simple quiz game designed to test your coding knowledge. Click through when the timer starts and find out how much you know! This project was made with JavaScript.
-        </p>
-        <p className='above'>
-        <ul className="nav">
-                    <li>
-                    <a href="https://github.com/aidanrich/quizgame" className="heading repo" target="_blank" rel="noreferrer noopener">Git Repo</a>
-                    </li>
-                    <li>
-                    <a href="https://aidanrich.github.io/quizgame/" className="heading repo" target="_blank" rel="noreferrer noopener">Live Site</a>
-                    </li>
-                </ul>
-                </p>
-      </div>
-      <div className="box-main">
-        <h1 className="heading">Know Your Game!</h1>
-        <p className="content">
-          <img src={game} alt="gamesite" />
-
-        </p>
-        <p className="content">
-          This app let's you search for games based on platform and genre and gives you book suggestions based on whichever game you click on. Made using Tailwinds CSS framework with data sourced from third party APIs.
-        </p>
-        <p className='above'>
-        <ul className="nav">
-                    <li>
-                    <a href="https://github.com/aidanrich/project1" className="heading repo" target="_blank" rel="noreferrer noopener">Git Repo</a>
-                    </li>
-                    <li>
-                    <a href="https://aidanrich.github.io/project1/" className="heading repo" target="_blank" rel="noreferrer noopener">Live Site</a>
                     </li>
                 </ul>
                 </p>
