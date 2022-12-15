@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/aidanPortfolio/static/css/main.079932ba.chunk.css",
+    "main.js": "/aidanPortfolio/static/js/main.76e9a269.chunk.js",
+    "main.js.map": "/aidanPortfolio/static/js/main.76e9a269.chunk.js.map",
+    "runtime-main.js": "/aidanPortfolio/static/js/runtime-main.388da924.js",
+    "runtime-main.js.map": "/aidanPortfolio/static/js/runtime-main.388da924.js.map",
+    "static/css/2.383c0125.chunk.css": "/aidanPortfolio/static/css/2.383c0125.chunk.css",
+    "static/js/2.dc7d86df.chunk.js": "/aidanPortfolio/static/js/2.dc7d86df.chunk.js",
+    "static/js/2.dc7d86df.chunk.js.map": "/aidanPortfolio/static/js/2.dc7d86df.chunk.js.map",
+    "static/js/3.e40277f6.chunk.js": "/aidanPortfolio/static/js/3.e40277f6.chunk.js",
+    "static/js/3.e40277f6.chunk.js.map": "/aidanPortfolio/static/js/3.e40277f6.chunk.js.map",
+    "index.html": "/aidanPortfolio/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/aidanPortfolio/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.079932ba.chunk.css.map": "/aidanPortfolio/static/css/main.079932ba.chunk.css.map",
+    "static/js/2.dc7d86df.chunk.js.LICENSE.txt": "/aidanPortfolio/static/js/2.dc7d86df.chunk.js.LICENSE.txt",
+    "static/media/AidansArtBlog.0e61695a.jpg": "/aidanPortfolio/static/media/AidansArtBlog.0e61695a.jpg",
+    "static/media/Capture.93def268.JPG": "/aidanPortfolio/static/media/Capture.93def268.JPG",
+    "static/media/Prequel.becd35c6.JPG": "/aidanPortfolio/static/media/Prequel.becd35c6.JPG",
+    "static/media/ResumeAidanRich.0c5e96c0.pdf": "/aidanPortfolio/static/media/ResumeAidanRich.0c5e96c0.pdf",
+    "static/media/App.css": "/aidanPortfolio/static/media/dark.18ba47fd.JPG",
+    "static/media/fitnesspic2.d428785a.jpg": "/aidanPortfolio/static/media/fitnesspic2.d428785a.jpg",
+    "static/media/game.7319800b.JPG": "/aidanPortfolio/static/media/game.7319800b.JPG",
+    "static/media/iconOfMe2.1aa39275.gif": "/aidanPortfolio/static/media/iconOfMe2.1aa39275.gif",
+    "static/media/new2town2.12855d81.jpg": "/aidanPortfolio/static/media/new2town2.12855d81.jpg",
+    "static/media/quizgame.705e1e1e.jpg": "/aidanPortfolio/static/media/quizgame.705e1e1e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.388da924.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.dc7d86df.chunk.js",
+    "static/css/main.079932ba.chunk.css",
+    "static/js/main.76e9a269.chunk.js"
+  ]
+}
